@@ -1,15 +1,3 @@
-# Basic Sample Hardhat Project
+# Uniswap V2 contract converted to work with 0.8 and above.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+This contract help to understand how uniswap work and it helped to gain knowledge about the innner workings of Uniswap.
